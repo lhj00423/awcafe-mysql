@@ -1,0 +1,31 @@
+.MenuFour{
+    height: 400px;
+    margin-top: 20%;
+    background-image: url('/public/images/loogoremove3.png') ;
+    background-size: cover;
+    margin-top: 0.5px;
+}
+.menu_btxt4{
+    padding-left: 100px;
+    padding-top: 120px;
+}
+.Menubtn4{
+    width: 8%;
+    height: 38px;
+    cursor: pointer;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.Menubtn4 p{
+    padding: 0;
+    color: #000;
+    border: 2px solid #000;
+    line-height: 34px;
+    border-radius: 5px;
+    text-align: center;
+}
+.Menubtn4 p:hover{
+    background-color: #000;
+    color: #fff;
+    transition: 0.5s;
+}

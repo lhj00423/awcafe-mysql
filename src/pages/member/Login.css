@@ -1,0 +1,99 @@
+#background5{
+    background: url(/public/images/login_bg.jpg)  center top no-repeat fixed;
+    width: 100%;
+}
+#login{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 570px;
+    padding-bottom: 80px;
+}
+#login h2{
+    color: #fff;
+    text-align: center;
+    padding: 70px 0 30px;
+}
+.login{
+    background-color: #fff;
+    border-radius: 3px;
+}
+.welcome{
+    padding: 30px 0;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+.welcome span{
+    color: #006633;
+    font-size: 18px;
+}
+.id{
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    box-sizing: border-box;
+    display: inline-block;
+    max-width: 530px;
+    padding: 15px;
+    width: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.password{
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    box-sizing: border-box;
+    display: inline-block;
+    max-width: 530px;
+    padding: 15px;
+    width: 100%;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.idcheck{
+    margin: 10px 0 0 20px ;
+    display: flex;
+}
+.idcheck p{
+    line-height: 26px;
+    padding-left: 20px;
+    font-size: 16px;
+}
+.checkbox{
+    width: 26px;
+    height: 26px;
+    padding: 0;
+    border: 0 none;
+    background: #fff;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.login1{
+    text-align: center;
+    font-size: 24px;
+    line-height: 65px;
+    margin: 0 20px;
+    max-width: 570px;
+    background-color: #006633;
+    color: #fff;
+    margin-top: 10px;
+    border-radius: 3px;
+}
+.logintext{
+    padding: 20px 20px 10px;
+    color: #006633;
+}
+.login ul{
+    display: flex;
+    width: 100%;
+
+}
+.login ul li{
+    width: calc(100%/3);
+    text-align: center;
+    margin: 20px 0 ;
+    cursor: pointer;
+    border-right: 1px solid #ccc;
+    color: #666;
+}
+.login ul li:nth-child(3){
+    border: none;
+}

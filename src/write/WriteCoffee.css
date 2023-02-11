@@ -1,0 +1,78 @@
+#Writecoffee{
+    margin: 20px auto;
+    width: 100%;
+    max-width: 1000px;
+    height: 500px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+
+#Writecoffee form{
+    box-shadow: 5px 5px 5px 5px gray;
+    border-radius: 8px;
+    width: 70%;
+    height: 300px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+#Writecoffee tr{
+    border-bottom: 1px solid #ccc;
+}
+
+#Writecoffee table{
+    text-align: left;
+}
+
+#Writecoffee td{
+    font-size: 23px;
+    padding: 10px 60px;
+}
+
+#Writecoffee input{
+    width:200px;
+    height:26px
+    ;line-height:26px
+}
+
+.ADD{
+    width: 100px;
+    height: 40px;
+    font-size: 18px;
+    margin-left: 140px;
+    color: white;
+    background-color: #046241;
+    border: 2px solid #046241;
+    text-decoration: none;
+    line-height: 34px;
+    border-radius: 5px;
+    text-align: center;
+}
+.ADD:hover{
+    color: #046241;
+    background-color: white;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.RESET {
+    width: 100px;
+    height: 40px;
+    font-size: 18px;
+    margin-left: 60px;
+    color: white;
+    background-color: #046241;
+    border: 2px solid #046241;
+    text-decoration: none;
+    line-height: 34px;
+    border-radius: 5px;
+    text-align: center;
+}
+.RESET:hover{
+    color: #046241;
+    background-color: white;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.editpassword{
+    margin-top: 20px;
+}

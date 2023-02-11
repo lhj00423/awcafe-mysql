@@ -1,0 +1,212 @@
+#Join{
+    max-width: 570px;
+    margin: 0 auto;
+    padding: 70px 0 50px;
+}
+#Joinheader{
+    text-align: center;
+    font-size: 30px;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+#Jointop{
+    border: 1px solid #ccc;
+    margin-bottom: 30px;
+}
+#Joinimg{
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 20px 0;
+}
+#Joinimg img{
+    width: 110px;
+    height: 100px;
+}
+#Joinimg p{
+    text-align: center;
+    padding: 20px 0;
+    color: #ccc;
+}
+#Jointopinput{
+    border-top: 1px solid #ccc;
+}
+#Jointop input{
+    border-radius: 3px;
+    box-sizing: border-box;
+    max-width: 530px;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    outline: none;
+    border: 1px solid #ccc;
+    margin: 20px;
+}
+#Joinbotton{
+    border: 1px solid #ccc;
+}
+#Joinname{
+    padding: 20px;
+}
+#Joinname p{
+    color: #222;
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+#Joinname input{
+    background: #f4f4f2;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    border-radius: 3px;
+    font-size: 14px;
+    padding: 15px;
+    width: 100%;
+}
+.Joinnickname{
+    padding: 20px;
+}
+.Joinnickname p{
+    color: #222;
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.Joinnickname input{
+    background: #f4f4f2;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    border-radius: 3px;
+    font-size: 14px;
+    padding: 15px;
+    width: 100%;
+}
+.Joinbd{
+    padding: 20px;
+}
+.Joinbd p{
+    color: #222;
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.Joinbd span{
+    display: block;
+    color: #444;
+    line-height: 1.6;
+    margin-top: 15px;
+    letter-spacing: -1px;
+}
+#bd{
+    display: flex;
+    justify-content: space-between;
+}
+#year{
+    display: block;
+    font-size: 14px;
+    border: 1px solid #dddddd;
+    width: 31.161%;
+    appearance: none;
+    padding: 16px 5px;
+}
+#month{
+    display: block;
+    font-size: 14px;
+    border: 1px solid #dddddd;
+    width: 24.11%;
+    appearance: none;
+    padding: 16px 5px;
+}
+#day{
+    display: block;
+    font-size: 14px;
+    border: 1px solid #dddddd;
+    width: 24.11%;
+    appearance: none;
+    padding: 16px 5px;
+}
+#yny{
+    display: block;
+    font-size: 14px;
+    border: 1px solid #dddddd;
+    width: 15.3169%;
+    appearance: none;
+    padding: 16px 5px;
+}
+.phone {
+    padding: 20px;
+}
+.phone p{
+    color: #222;
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.phoneinput{
+    background: #fff;
+    width: 31.2%;
+    float: none;
+    width: 100%;
+    text-indent: 10px;
+    appearance: none;
+    border: none;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    max-width: 530px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.phone span{
+    color: #444;
+    line-height: 1.6;
+    margin-top: 15px;
+    letter-spacing: -1px;
+}
+.email{
+    padding: 20px;
+}
+.email p{
+    color: #222;
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.emailinput{
+    background: #fff;
+    width: 31.2%;
+    float: none;
+    width: 100%;
+    text-indent: 10px;
+    appearance: none;
+    border: none;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    max-width: 530px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.email span{
+    color: #444;
+    line-height: 1.6;
+    margin-top: 15px;
+    letter-spacing: -1px;
+}
+#Join label{
+    color: #006241;
+}
+
+#Joinfooter {
+    width: 100%;
+    height: 100%;
+    padding: 25px 10px;
+    background: #006633;
+    border-radius: 3px;
+    font-size: 23px; 
+    text-align: center;
+    margin: 30px 20px 0;
+    max-width: 530px;
+    color: #fff;
+    border: none;
+    outline: none;
+}

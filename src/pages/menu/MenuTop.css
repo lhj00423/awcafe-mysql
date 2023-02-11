@@ -1,0 +1,31 @@
+.MenuTop{
+    height: 400px;
+    margin-top: 20%;
+    background-image: url('/public/images/menu_bimg1.jpg') ;
+    background-size: cover;
+    margin-top: 1px;
+}
+.menu_btxt1{
+    padding-left: 1200px;
+    padding-top: 80px;
+}
+.Menubtn1{
+    width: 8%;
+    height: 38px;
+    cursor: pointer;
+    margin-left: 1200px;
+    margin-top: 50px;
+}
+.Menubtn1 p{
+    padding: 0;
+    color: #fff;
+    border: 2px solid #fff;
+    line-height: 34px;
+    border-radius: 5px;
+    text-align: center;
+}
+.Menubtn1 p:hover{
+    background-color: #fff;
+    color: #000;
+    transition: 0.5s;
+}

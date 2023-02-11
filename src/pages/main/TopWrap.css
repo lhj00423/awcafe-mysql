@@ -1,0 +1,78 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+.background{
+    width: 100%;
+    height: 680px;
+}
+.main1 {
+    height: 34vw;
+    background-image: url('/public/images/2023_newyear_top_bg.jpg');
+}
+.mainTop{
+    display: flex;
+    justify-content: center;
+}
+.mainTop .toplogo1{
+    padding-top: 150px;
+}
+
+.Detailbtn1{
+    width: 8%;
+    height: 38px;
+    margin-left: 400px;
+    margin-top: -50px;
+}
+
+.Topdrink{
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+.Detailbtn1 p{
+    padding: 0;
+    color: #046241;
+    border: 2px solid #046241;
+    text-decoration: none;
+    line-height: 34px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+    
+.Detailbtn1 p:hover{
+    background-color: #046241;
+    color: #fff;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+
+/* @keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadein { 
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+.topdrink1{
+    animation: fadein 2s ease 3s;
+  -webkit-animation: fadein 2s; 
+}
+.topdrink2{
+    animation: fadein 4s ease 3s;
+  -webkit-animation: fadein 4s; 
+}
+.topdrink3{
+    animation: fadein 5s ease 3s;
+  -webkit-animation: fadein 5s; 
+} */

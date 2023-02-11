@@ -1,0 +1,39 @@
+.Findid{
+    max-width: 570px;
+    margin: 0 auto;
+    padding: 70px 0 70px;
+   
+}
+#Findid{
+      
+    border: 1px solid #ccc;
+}
+#Findidimg{
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 20px 30px;
+    
+}
+#Findidimg img{
+    width: 100px;
+    height: 95px;
+}
+#Findidimg p{
+    text-align: center;
+    padding: 20px 0;
+    color: #ccc;
+}
+#Findidinput{
+    border-top: 1px solid #ccc;
+}
+#Findidinput input{
+    border-radius: 3px;
+    box-sizing: border-box;
+    max-width: 530px;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    outline: none;
+    border: 1px solid #ccc;
+    margin: 20px;
+}
